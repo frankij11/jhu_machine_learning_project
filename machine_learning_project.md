@@ -10,9 +10,10 @@ output:
 
 # Executive Summary
 In this project, data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants were analyzed to predict how well an exercise was performed. Machine Learning techniques to classify exercise categorgy will be trained on a subset of data and tested on the remaining data in order to minimize both bias and variance.The following algorithms were used:  
-* k-Nearest Neighbors  
-* Decision Tree  
-* Random Forest  
+
+  * k-Nearest Neighbors  
+  * Decision Tree  
+  * Random Forest  
 
 The random forest model has proved to be the most robust with an accuracy of aproximately 97% when predicting class of excerise.
 
